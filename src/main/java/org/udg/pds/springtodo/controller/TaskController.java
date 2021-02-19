@@ -11,6 +11,7 @@ import org.udg.pds.springtodo.entity.Tag;
 import org.udg.pds.springtodo.entity.Task;
 import org.udg.pds.springtodo.entity.Views;
 import org.udg.pds.springtodo.serializer.JsonDateDeserializer;
+import org.udg.pds.springtodo.service.GroupService;
 import org.udg.pds.springtodo.service.TaskService;
 
 import javax.servlet.http.HttpSession;
